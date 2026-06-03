@@ -1,0 +1,4 @@
+{
+  "bm25_weight": 0.65,
+  "cross_encoder_top_k": 20
+}

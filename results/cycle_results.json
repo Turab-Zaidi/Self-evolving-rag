@@ -1,0 +1,1486 @@
+{
+  "cycle_0": {
+    "timestamp": "2026-05-31T17:06:11.063979",
+    "total_questions": 40,
+    "pipeline_errors": 0,
+    "avg_faithfulness": 0.5753,
+    "avg_context_recall": 0.7269,
+    "avg_context_precision": 0.6508,
+    "avg_answer_relevancy": 0.5548,
+    "per_question": [
+      {
+        "query_id": "bas_9cfb833b",
+        "question": "When may an investigator request written informed consent from a potential subject?",
+        "difficulty": "basic",
+        "faithfulness": 0.625,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.9168047206172503
+      },
+      {
+        "query_id": "adv_c6bc8787",
+        "question": "How does the result of the risk‑based assessment (question A1.5) dictate whether a labeling change to an IVD requires a new 510(k) submission versus only documentation, as demonstrated in the two scenarios provided?",
+        "difficulty": "advanced",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": 0.7390381386335285
+      },
+      {
+        "query_id": "int_6c42e2bc",
+        "question": "According to its identification, under what condition must a blood pressure alarm emit an alarm?",
+        "difficulty": "intermediate",
+        "faithfulness": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.8214008340947743
+      },
+      {
+        "query_id": "bas_86ca2024",
+        "question": "What is the FDA classification for an indirect pacemaker generator function analyzer?",
+        "difficulty": "basic",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_fca0b401",
+        "question": "According to 807.81(a)(3), when must a manufacturer submit a new 510(k) for a change?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_59f88087",
+        "question": "Under what circumstances must an importer submit a report directly to the FDA, and when is the importer required to submit the report only to the manufacturer?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.4166666666666667,
+        "context_recall": 1.0,
+        "context_precision": 0.49999999995,
+        "answer_relevancy": 0.7295496887607086
+      },
+      {
+        "query_id": "adv_d1527304",
+        "question": "Based on the provided examples, how does the answer to D3 (risk‑based assessment) determine whether a manufacturer must submit a new 510(k) or can rely on documentation alone for a change to an IVD device?",
+        "difficulty": "advanced",
+        "faithfulness": NaN,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998,
+        "answer_relevancy": 0.7581785897822629
+      },
+      {
+        "query_id": "int_49d9c510",
+        "question": "When may an FDA order be served by registered mail rather than in person?",
+        "difficulty": "intermediate",
+        "faithfulness": null,
+        "context_recall": null,
+        "context_precision": null,
+        "answer_relevancy": null
+      },
+      {
+        "query_id": "int_cc596291",
+        "question": "Under what circumstances may the person named in a cease distribution and notification order stop submitting status reports, and which regulation provides the authority to do so?",
+        "difficulty": "intermediate",
+        "faithfulness": null,
+        "context_recall": null,
+        "context_precision": null,
+        "answer_relevancy": null
+      },
+      {
+        "query_id": "bas_9f92d8fd",
+        "question": "What classification is assigned to a roller-type cardiopulmonary bypass blood pump?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.8055555555287036,
+        "answer_relevancy": -0.004608744582249373
+      },
+      {
+        "query_id": "bas_8d446ea2",
+        "question": "Does changing a device labeled for single use only to a device labeled as reusable typically require a new 510(k) submission?",
+        "difficulty": "basic",
+        "faithfulness": 0.7777777777777778,
+        "context_recall": 1.0,
+        "context_precision": 0.8055555555287036,
+        "answer_relevancy": 0.9864479636442303
+      },
+      {
+        "query_id": "int_a82a9656",
+        "question": "Under what condition is a pacemaker test magnet exempt from the premarket notification procedures?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_10b4db37",
+        "question": "According to §820.150, when a product's quality deteriorates over time, what storage method must be used and what assessment is required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.7142857142857143,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.7643052831339513
+      },
+      {
+        "query_id": "adv_cbc0cfb1",
+        "question": "According to the assessment, how does the conclusion that the dimensional reduction and coating removal do not create new or significantly modified risks influence the requirement for clinical data and the need to submit a 510(k) in steps B5.3 and B5.4?",
+        "difficulty": "advanced",
+        "faithfulness": 0.7272727272727273,
+        "context_recall": 1.0,
+        "context_precision": 0.999999999975,
+        "answer_relevancy": 0.6326045380984032
+      },
+      {
+        "query_id": "bas_a5e0e8c1",
+        "question": "Which section of the Act defines the failure to have an approved postmarket surveillance plan as a prohibited act?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.6899695356932233
+      },
+      {
+        "query_id": "int_43c5ef70",
+        "question": "If a cardiopulmonary bypass accessory equipment involves an electrical connection to the patient, what classification does it receive and what special controls apply?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 1.0,
+        "context_precision": 0.999999999975,
+        "answer_relevancy": 0.8625937920482519
+      },
+      {
+        "query_id": "int_f94c4378",
+        "question": "Under what circumstances will the FDA issue an order temporarily suspending approval of a PMA?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8333333333333334,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8363518396122243
+      },
+      {
+        "query_id": "int_e18e9a91",
+        "question": "When performing a risk assessment, what categories of harm should manufacturers consider, and what specific elements of hazardous situations are they required to analyze?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.5,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_8c38bda8",
+        "question": "According to the guidance, which labeling changes require submission of a new 510(k)?",
+        "difficulty": "basic",
+        "faithfulness": 0.9090909090909091,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8653202876052967
+      },
+      {
+        "query_id": "bas_37974063",
+        "question": "What classification is assigned to a steerable catheter control system under the FDA regulations?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_6a29fe86",
+        "question": "What are the three categories of class III medical devices to which §814.1 applies, and what specific criteria define each category?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_720992d9",
+        "question": "How does the Class II (special controls) classification of a cardiopulmonary bypass level sensing monitor and/or control influence its premarket notification obligations, and what specific limitation governs this exemption?",
+        "difficulty": "advanced",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_9cfeeae9",
+        "question": "When a manufacturer or importer initiates a correction or removal to reduce a health risk but does not have a seven‑digit registration number, how must the report number be formatted, and what does FDA do with reports that lack a seven‑digit registration number?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8333333333333334,
+        "context_recall": 1.0,
+        "context_precision": 0.49999999995,
+        "answer_relevancy": 0.8856538088801301
+      },
+      {
+        "query_id": "adv_c1d9e35f",
+        "question": "How does the requirement that human factors testing demonstrate a user’s ability to correctly interpret device output (requirement 4(ii)) relate to the labeling requirement to provide guidance on interpretation of results (requirement 5(v))?",
+        "difficulty": "advanced",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_d0daf985",
+        "question": "According to §801.127, what happens to the exemption for a device originally covered by §§801.119, 801.122, or 801.125 if it is relabeled to comply with section 502(f)(1) before being used for its exempt purpose, and how does a subsequent conversion of that device to a form limited to prescription dispensing affect its exemption status?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8973890950094189
+      },
+      {
+        "query_id": "bas_cbee2b4f",
+        "question": "Does submission of a premarket notification denote official approval of the device?",
+        "difficulty": "basic",
+        "faithfulness": 0.7,
+        "context_recall": 1.0,
+        "context_precision": 0.4499999999775,
+        "answer_relevancy": 0.7346787152944106
+      },
+      {
+        "query_id": "bas_55b6f383",
+        "question": "What is the FDA classification for a cardiopulmonary bypass heart-lung machine console?",
+        "difficulty": "basic",
+        "faithfulness": 0.5,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_b99ead3f",
+        "question": "According to the special controls for apical closure devices, what specific information must be included on the device labeling?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8181818181818182,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.6090357381961896
+      },
+      {
+        "query_id": "int_beb54578",
+        "question": "When does a cardiac monitor (including cardiotachometer and rate alarm) sound an alarm according to its identification description?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_c2301011",
+        "question": "How does the requirement for submitting a PMA or a premarket notification for non‑humanitarian use devices relate to the two‑step process for obtaining marketing approval of a HUD described in this section?",
+        "difficulty": "advanced",
+        "faithfulness": 0.5555555555555556,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625,
+        "answer_relevancy": 0.7239404603223426
+      },
+      {
+        "query_id": "adv_b692c45b",
+        "question": "If FDA denies approval of a PMA because a nonclinical laboratory study was not conducted in compliance with the good laboratory practice regulations in part 58, what specific information must the denial order contain, and how must FDA publicly announce the denial?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.7974388643593109
+      },
+      {
+        "query_id": "bas_3443521a",
+        "question": "Who grants exemptions from sections 510, 519, and 520(f) under §860.15?",
+        "difficulty": "basic",
+        "faithfulness": 0.6,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999666667,
+        "answer_relevancy": 0.7653298780374701
+      },
+      {
+        "query_id": "bas_01d86bd9",
+        "question": "What classification is assigned to an automated external defibrillator (AED) system?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_d800f972",
+        "question": "What classification is assigned to a vena cava clip?",
+        "difficulty": "basic",
+        "faithfulness": 0.8,
+        "context_recall": 1.0,
+        "context_precision": 0.9166666666361111,
+        "answer_relevancy": 0.8740063756035127
+      },
+      {
+        "query_id": "bas_e71d559e",
+        "question": "What is the FDA classification for the software-based optical camera measurement device?",
+        "difficulty": "basic",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999666667,
+        "answer_relevancy": 0.952825094895065
+      },
+      {
+        "query_id": "bas_e19cd327",
+        "question": "According to the guidance, does it recommend using a specific software life cycle model?",
+        "difficulty": "basic",
+        "faithfulness": 0.7777777777777778,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999666667,
+        "answer_relevancy": 0.7543877626154432
+      },
+      {
+        "query_id": "int_ec8e6ffc",
+        "question": "If a manufacturer reduces the diameter of a urinary drainage (Foley) catheter to a size that falls within the range of diameters previously cleared, is a new 510(k) submission required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.6111111111111112,
+        "context_recall": 0.5,
+        "context_precision": 0.999999999975,
+        "answer_relevancy": 0.9663180386652837
+      },
+      {
+        "query_id": "bas_0ad4f98e",
+        "question": "What is the FDA classification for a cardiopulmonary bypass defoamer?",
+        "difficulty": "basic",
+        "faithfulness": 0.8,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625,
+        "answer_relevancy": 0.983262710737529
+      },
+      {
+        "query_id": "adv_da661ae0",
+        "question": "How does the guidance's statement that it does not create rights or bind the FDA enable a manufacturer to use an alternative approach, and what procedure does the text prescribe for discussing that alternative with the Agency?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 1.0,
+        "context_precision": 0.999999999975,
+        "answer_relevancy": 0.7346837805137421
+      },
+      {
+        "query_id": "adv_531474df",
+        "question": "How does the special control requiring electromagnetic compatibility (EMC) validation within a hospital environment relate to the labeling requirement that the device be intended for use in a hospital environment under clinician supervision?",
+        "difficulty": "advanced",
+        "faithfulness": 0.7272727272727273,
+        "context_recall": 0.6666666666666666,
+        "context_precision": 0.99999999995,
+        "answer_relevancy": 0.8051086824739767
+      }
+    ]
+  },
+  "cycle_1": {
+    "timestamp": "2026-05-30T19:23:57.106519",
+    "total_questions": 40,
+    "pipeline_errors": 0,
+    "avg_faithfulness": 0.477,
+    "avg_context_recall": 0.5125,
+    "avg_context_precision": 0.4881,
+    "avg_answer_relevancy": 0.458,
+    "per_question": [
+      {
+        "query_id": "bas_9cfb833b",
+        "question": "When may an investigator request written informed consent from a potential subject?",
+        "difficulty": "basic",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_c6bc8787",
+        "question": "How does the result of the risk‑based assessment (question A1.5) dictate whether a labeling change to an IVD requires a new 510(k) submission versus only documentation, as demonstrated in the two scenarios provided?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 0.0,
+        "context_precision": 0.9821428571288265,
+        "answer_relevancy": 0.790886567620181
+      },
+      {
+        "query_id": "int_6c42e2bc",
+        "question": "According to its identification, under what condition must a blood pressure alarm emit an alarm?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_86ca2024",
+        "question": "What is the FDA classification for an indirect pacemaker generator function analyzer?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_fca0b401",
+        "question": "According to 807.81(a)(3), when must a manufacturer submit a new 510(k) for a change?",
+        "difficulty": "basic",
+        "faithfulness": 0.75,
+        "context_recall": 0.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.6807828559976993
+      },
+      {
+        "query_id": "int_59f88087",
+        "question": "Under what circumstances must an importer submit a report directly to the FDA, and when is the importer required to submit the report only to the manufacturer?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.7142857142857143,
+        "context_recall": 1.0,
+        "context_precision": 0.49999999995,
+        "answer_relevancy": 0.6910099644031712
+      },
+      {
+        "query_id": "adv_d1527304",
+        "question": "Based on the provided examples, how does the answer to D3 (risk‑based assessment) determine whether a manufacturer must submit a new 510(k) or can rely on documentation alone for a change to an IVD device?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 0.3333333333333333,
+        "context_precision": 0.8928571428348213,
+        "answer_relevancy": 0.740591101983405
+      },
+      {
+        "query_id": "int_49d9c510",
+        "question": "When may an FDA order be served by registered mail rather than in person?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_cc596291",
+        "question": "Under what circumstances may the person named in a cease distribution and notification order stop submitting status reports, and which regulation provides the authority to do so?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_9f92d8fd",
+        "question": "What classification is assigned to a roller-type cardiopulmonary bypass blood pump?",
+        "difficulty": "basic",
+        "faithfulness": 0.4,
+        "context_recall": 1.0,
+        "context_precision": 0.6999999999766667,
+        "answer_relevancy": 0.9254573311595831
+      },
+      {
+        "query_id": "bas_8d446ea2",
+        "question": "Does changing a device labeled for single use only to a device labeled as reusable typically require a new 510(k) submission?",
+        "difficulty": "basic",
+        "faithfulness": 0.7,
+        "context_recall": 1.0,
+        "context_precision": 0.7688492063363922,
+        "answer_relevancy": 0.9161343365350647
+      },
+      {
+        "query_id": "int_a82a9656",
+        "question": "Under what condition is a pacemaker test magnet exempt from the premarket notification procedures?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_10b4db37",
+        "question": "According to §820.150, when a product's quality deteriorates over time, what storage method must be used and what assessment is required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8571428571428571,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.7093359566488204
+      },
+      {
+        "query_id": "adv_cbc0cfb1",
+        "question": "According to the assessment, how does the conclusion that the dimensional reduction and coating removal do not create new or significantly modified risks influence the requirement for clinical data and the need to submit a 510(k) in steps B5.3 and B5.4?",
+        "difficulty": "advanced",
+        "faithfulness": 0.375,
+        "context_recall": 1.0,
+        "context_precision": 0.729523809509219,
+        "answer_relevancy": 0.6591254572855686
+      },
+      {
+        "query_id": "bas_a5e0e8c1",
+        "question": "Which section of the Act defines the failure to have an approved postmarket surveillance plan as a prohibited act?",
+        "difficulty": "basic",
+        "faithfulness": 0.6,
+        "context_recall": 1.0,
+        "context_precision": 0.8333333332916666,
+        "answer_relevancy": 0.7613552142709121
+      },
+      {
+        "query_id": "int_43c5ef70",
+        "question": "If a cardiopulmonary bypass accessory equipment involves an electrical connection to the patient, what classification does it receive and what special controls apply?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_f94c4378",
+        "question": "Under what circumstances will the FDA issue an order temporarily suspending approval of a PMA?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_e18e9a91",
+        "question": "When performing a risk assessment, what categories of harm should manufacturers consider, and what specific elements of hazardous situations are they required to analyze?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.9523809523809523,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.705856350470747
+      },
+      {
+        "query_id": "bas_8c38bda8",
+        "question": "According to the guidance, which labeling changes require submission of a new 510(k)?",
+        "difficulty": "basic",
+        "faithfulness": 0.6666666666666666,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625,
+        "answer_relevancy": 0.9027783616372593
+      },
+      {
+        "query_id": "bas_37974063",
+        "question": "What classification is assigned to a steerable catheter control system under the FDA regulations?",
+        "difficulty": "basic",
+        "faithfulness": 0.25,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_6a29fe86",
+        "question": "What are the three categories of class III medical devices to which §814.1 applies, and what specific criteria define each category?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.5,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_720992d9",
+        "question": "How does the Class II (special controls) classification of a cardiopulmonary bypass level sensing monitor and/or control influence its premarket notification obligations, and what specific limitation governs this exemption?",
+        "difficulty": "advanced",
+        "faithfulness": 0.875,
+        "context_recall": 1.0,
+        "context_precision": 0.8253968253803173,
+        "answer_relevancy": 0.7914449389775235
+      },
+      {
+        "query_id": "adv_9cfeeae9",
+        "question": "When a manufacturer or importer initiates a correction or removal to reduce a health risk but does not have a seven‑digit registration number, how must the report number be formatted, and what does FDA do with reports that lack a seven‑digit registration number?",
+        "difficulty": "advanced",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_c1d9e35f",
+        "question": "How does the requirement that human factors testing demonstrate a user’s ability to correctly interpret device output (requirement 4(ii)) relate to the labeling requirement to provide guidance on interpretation of results (requirement 5(v))?",
+        "difficulty": "advanced",
+        "faithfulness": 0.0,
+        "context_recall": 0.5,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_d0daf985",
+        "question": "According to §801.127, what happens to the exemption for a device originally covered by §§801.119, 801.122, or 801.125 if it is relabeled to comply with section 502(f)(1) before being used for its exempt purpose, and how does a subsequent conversion of that device to a form limited to prescription dispensing affect its exemption status?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8907132547765678
+      },
+      {
+        "query_id": "bas_cbee2b4f",
+        "question": "Does submission of a premarket notification denote official approval of the device?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_55b6f383",
+        "question": "What is the FDA classification for a cardiopulmonary bypass heart-lung machine console?",
+        "difficulty": "basic",
+        "faithfulness": 0.6,
+        "context_recall": 1.0,
+        "context_precision": 0.7222222221981481,
+        "answer_relevancy": 0.8566865594730166
+      },
+      {
+        "query_id": "int_b99ead3f",
+        "question": "According to the special controls for apical closure devices, what specific information must be included on the device labeling?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_beb54578",
+        "question": "When does a cardiac monitor (including cardiotachometer and rate alarm) sound an alarm according to its identification description?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_c2301011",
+        "question": "How does the requirement for submitting a PMA or a premarket notification for non‑humanitarian use devices relate to the two‑step process for obtaining marketing approval of a HUD described in this section?",
+        "difficulty": "advanced",
+        "faithfulness": 0.42857142857142855,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625,
+        "answer_relevancy": 0.7279963369460335
+      },
+      {
+        "query_id": "adv_b692c45b",
+        "question": "If FDA denies approval of a PMA because a nonclinical laboratory study was not conducted in compliance with the good laboratory practice regulations in part 58, what specific information must the denial order contain, and how must FDA publicly announce the denial?",
+        "difficulty": "advanced",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_3443521a",
+        "question": "Who grants exemptions from sections 510, 519, and 520(f) under §860.15?",
+        "difficulty": "basic",
+        "faithfulness": 0.5,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.7324416112641184
+      },
+      {
+        "query_id": "bas_01d86bd9",
+        "question": "What classification is assigned to an automated external defibrillator (AED) system?",
+        "difficulty": "basic",
+        "faithfulness": 0.6666666666666666,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8537983239579029
+      },
+      {
+        "query_id": "bas_d800f972",
+        "question": "What classification is assigned to a vena cava clip?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999666667,
+        "answer_relevancy": 0.8546355462917049
+      },
+      {
+        "query_id": "bas_e71d559e",
+        "question": "What is the FDA classification for the software-based optical camera measurement device?",
+        "difficulty": "basic",
+        "faithfulness": 0.9,
+        "context_recall": 1.0,
+        "context_precision": 0.9666666666473333,
+        "answer_relevancy": 0.9234229468523759
+      },
+      {
+        "query_id": "bas_e19cd327",
+        "question": "According to the guidance, does it recommend using a specific software life cycle model?",
+        "difficulty": "basic",
+        "faithfulness": 0.6666666666666666,
+        "context_recall": 1.0,
+        "context_precision": 0.6178571428416965,
+        "answer_relevancy": 0.689557168298287
+      },
+      {
+        "query_id": "int_ec8e6ffc",
+        "question": "If a manufacturer reduces the diameter of a urinary drainage (Foley) catheter to a size that falls within the range of diameters previously cleared, is a new 510(k) submission required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.625,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999833333,
+        "answer_relevancy": 0.9093811008816802
+      },
+      {
+        "query_id": "bas_0ad4f98e",
+        "question": "What is the FDA classification for a cardiopulmonary bypass defoamer?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_da661ae0",
+        "question": "How does the guidance's statement that it does not create rights or bind the FDA enable a manufacturer to use an alternative approach, and what procedure does the text prescribe for discussing that alternative with the Agency?",
+        "difficulty": "advanced",
+        "faithfulness": 0.9090909090909091,
+        "context_recall": 1.0,
+        "context_precision": 0.9666666666473333,
+        "answer_relevancy": 0.8782035249471892
+      },
+      {
+        "query_id": "adv_531474df",
+        "question": "How does the special control requiring electromagnetic compatibility (EMC) validation within a hospital environment relate to the labeling requirement that the device be intended for use in a hospital environment under clinician supervision?",
+        "difficulty": "advanced",
+        "faithfulness": 0.7,
+        "context_recall": 0.6666666666666666,
+        "context_precision": 0.5166666666537499,
+        "answer_relevancy": 0.7284838685034948
+      }
+    ]
+  },
+  "cycle_2": {
+    "timestamp": "2026-06-02T04:47:28.957523",
+    "total_questions": 40,
+    "pipeline_errors": 0,
+    "avg_faithfulness": 0.4662,
+    "avg_context_recall": 0.5667,
+    "avg_context_precision": 0.5364,
+    "avg_answer_relevancy": 0.463,
+    "per_question": [
+      {
+        "query_id": "bas_9cfb833b",
+        "question": "When may an investigator request written informed consent from a potential subject?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_c6bc8787",
+        "question": "How does the result of the risk‑based assessment (question A1.5) dictate whether a labeling change to an IVD requires a new 510(k) submission versus only documentation, as demonstrated in the two scenarios provided?",
+        "difficulty": "advanced",
+        "faithfulness": 0.9333333333333333,
+        "context_recall": 0.0,
+        "context_precision": 0.8106150793549467,
+        "answer_relevancy": 0.7104041791930271
+      },
+      {
+        "query_id": "int_6c42e2bc",
+        "question": "According to its identification, under what condition must a blood pressure alarm emit an alarm?",
+        "difficulty": "intermediate",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.732223473048898
+      },
+      {
+        "query_id": "bas_86ca2024",
+        "question": "What is the FDA classification for an indirect pacemaker generator function analyzer?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_fca0b401",
+        "question": "According to 807.81(a)(3), when must a manufacturer submit a new 510(k) for a change?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.3333333333,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_59f88087",
+        "question": "Under what circumstances must an importer submit a report directly to the FDA, and when is the importer required to submit the report only to the manufacturer?",
+        "difficulty": "intermediate",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.5535714285529761,
+        "answer_relevancy": 0.6867111821220983
+      },
+      {
+        "query_id": "adv_d1527304",
+        "question": "Based on the provided examples, how does the answer to D3 (risk‑based assessment) determine whether a manufacturer must submit a new 510(k) or can rely on documentation alone for a change to an IVD device?",
+        "difficulty": "advanced",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_49d9c510",
+        "question": "When may an FDA order be served by registered mail rather than in person?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.6666666666666666,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995,
+        "answer_relevancy": 0.9275086645446086
+      },
+      {
+        "query_id": "int_cc596291",
+        "question": "Under what circumstances may the person named in a cease distribution and notification order stop submitting status reports, and which regulation provides the authority to do so?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_9f92d8fd",
+        "question": "What classification is assigned to a roller-type cardiopulmonary bypass blood pump?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_8d446ea2",
+        "question": "Does changing a device labeled for single use only to a device labeled as reusable typically require a new 510(k) submission?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_a82a9656",
+        "question": "Under what condition is a pacemaker test magnet exempt from the premarket notification procedures?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_10b4db37",
+        "question": "According to §820.150, when a product's quality deteriorates over time, what storage method must be used and what assessment is required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.7142857142857143,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8607720275262408
+      },
+      {
+        "query_id": "adv_cbc0cfb1",
+        "question": "According to the assessment, how does the conclusion that the dimensional reduction and coating removal do not create new or significantly modified risks influence the requirement for clinical data and the need to submit a 510(k) in steps B5.3 and B5.4?",
+        "difficulty": "advanced",
+        "faithfulness": 0.7692307692307693,
+        "context_recall": 1.0,
+        "context_precision": 0.9093537414836079,
+        "answer_relevancy": 0.6544645092356097
+      },
+      {
+        "query_id": "bas_a5e0e8c1",
+        "question": "Which section of the Act defines the failure to have an approved postmarket surveillance plan as a prohibited act?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8075574930559638
+      },
+      {
+        "query_id": "int_43c5ef70",
+        "question": "If a cardiopulmonary bypass accessory equipment involves an electrical connection to the patient, what classification does it receive and what special controls apply?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 1.0,
+        "context_precision": 0.6178571428416965,
+        "answer_relevancy": 0.8648886190086339
+      },
+      {
+        "query_id": "int_f94c4378",
+        "question": "Under what circumstances will the FDA issue an order temporarily suspending approval of a PMA?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_e18e9a91",
+        "question": "When performing a risk assessment, what categories of harm should manufacturers consider, and what specific elements of hazardous situations are they required to analyze?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_8c38bda8",
+        "question": "According to the guidance, which labeling changes require submission of a new 510(k)?",
+        "difficulty": "basic",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 1.0,
+        "context_precision": 0.7555555555303703,
+        "answer_relevancy": 0.8734074882139135
+      },
+      {
+        "query_id": "bas_37974063",
+        "question": "What classification is assigned to a steerable catheter control system under the FDA regulations?",
+        "difficulty": "basic",
+        "faithfulness": 0.6,
+        "context_recall": 1.0,
+        "context_precision": 0.9428571428382857,
+        "answer_relevancy": 0.9038207642841908
+      },
+      {
+        "query_id": "int_6a29fe86",
+        "question": "What are the three categories of class III medical devices to which §814.1 applies, and what specific criteria define each category?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.3333333333333333,
+        "context_recall": 0.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_720992d9",
+        "question": "How does the Class II (special controls) classification of a cardiopulmonary bypass level sensing monitor and/or control influence its premarket notification obligations, and what specific limitation governs this exemption?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.8061868686734323,
+        "answer_relevancy": 0.7658851461667907
+      },
+      {
+        "query_id": "adv_9cfeeae9",
+        "question": "When a manufacturer or importer initiates a correction or removal to reduce a health risk but does not have a seven‑digit registration number, how must the report number be formatted, and what does FDA do with reports that lack a seven‑digit registration number?",
+        "difficulty": "advanced",
+        "faithfulness": 0.7692307692307693,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8895449361756907
+      },
+      {
+        "query_id": "adv_c1d9e35f",
+        "question": "How does the requirement that human factors testing demonstrate a user’s ability to correctly interpret device output (requirement 4(ii)) relate to the labeling requirement to provide guidance on interpretation of results (requirement 5(v))?",
+        "difficulty": "advanced",
+        "faithfulness": 0.0,
+        "context_recall": 0.5,
+        "context_precision": 0.3333333333,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_d0daf985",
+        "question": "According to §801.127, what happens to the exemption for a device originally covered by §§801.119, 801.122, or 801.125 if it is relabeled to comply with section 502(f)(1) before being used for its exempt purpose, and how does a subsequent conversion of that device to a form limited to prescription dispensing affect its exemption status?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8864900462771597
+      },
+      {
+        "query_id": "bas_cbee2b4f",
+        "question": "Does submission of a premarket notification denote official approval of the device?",
+        "difficulty": "basic",
+        "faithfulness": 0.8888888888888888,
+        "context_recall": 0.5,
+        "context_precision": 0.46666666665111106,
+        "answer_relevancy": 0.6547620661963888
+      },
+      {
+        "query_id": "bas_55b6f383",
+        "question": "What is the FDA classification for a cardiopulmonary bypass heart-lung machine console?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_b99ead3f",
+        "question": "According to the special controls for apical closure devices, what specific information must be included on the device labeling?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_beb54578",
+        "question": "When does a cardiac monitor (including cardiotachometer and rate alarm) sound an alarm according to its identification description?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.6,
+        "context_recall": 1.0,
+        "context_precision": 0.8333333332916666,
+        "answer_relevancy": 0.7981500679270974
+      },
+      {
+        "query_id": "adv_c2301011",
+        "question": "How does the requirement for submitting a PMA or a premarket notification for non‑humanitarian use devices relate to the two‑step process for obtaining marketing approval of a HUD described in this section?",
+        "difficulty": "advanced",
+        "faithfulness": 0.6,
+        "context_recall": 1.0,
+        "context_precision": 0.555555555537037,
+        "answer_relevancy": 0.6956662790203797
+      },
+      {
+        "query_id": "adv_b692c45b",
+        "question": "If FDA denies approval of a PMA because a nonclinical laboratory study was not conducted in compliance with the good laboratory practice regulations in part 58, what specific information must the denial order contain, and how must FDA publicly announce the denial?",
+        "difficulty": "advanced",
+        "faithfulness": 0.7368421052631579,
+        "context_recall": 1.0,
+        "context_precision": 0.699999999965,
+        "answer_relevancy": 0.7772790105289222
+      },
+      {
+        "query_id": "bas_3443521a",
+        "question": "Who grants exemptions from sections 510, 519, and 520(f) under §860.15?",
+        "difficulty": "basic",
+        "faithfulness": 0.75,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995,
+        "answer_relevancy": 0.9399003576228345
+      },
+      {
+        "query_id": "bas_01d86bd9",
+        "question": "What classification is assigned to an automated external defibrillator (AED) system?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_d800f972",
+        "question": "What classification is assigned to a vena cava clip?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_e71d559e",
+        "question": "What is the FDA classification for the software-based optical camera measurement device?",
+        "difficulty": "basic",
+        "faithfulness": 0.6666666666666666,
+        "context_recall": 1.0,
+        "context_precision": 0.9305555555400462,
+        "answer_relevancy": 0.863881042267737
+      },
+      {
+        "query_id": "bas_e19cd327",
+        "question": "According to the guidance, does it recommend using a specific software life cycle model?",
+        "difficulty": "basic",
+        "faithfulness": 0.4,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999833333,
+        "answer_relevancy": 0.7773135529840894
+      },
+      {
+        "query_id": "int_ec8e6ffc",
+        "question": "If a manufacturer reduces the diameter of a urinary drainage (Foley) catheter to a size that falls within the range of diameters previously cleared, is a new 510(k) submission required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8181818181818182,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998,
+        "answer_relevancy": 0.9001867559147696
+      },
+      {
+        "query_id": "bas_0ad4f98e",
+        "question": "What is the FDA classification for a cardiopulmonary bypass defoamer?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "adv_da661ae0",
+        "question": "How does the guidance's statement that it does not create rights or bind the FDA enable a manufacturer to use an alternative approach, and what procedure does the text prescribe for discussing that alternative with the Agency?",
+        "difficulty": "advanced",
+        "faithfulness": 0.75,
+        "context_recall": 1.0,
+        "context_precision": 0.9666666666473333,
+        "answer_relevancy": 0.7762811066471457
+      },
+      {
+        "query_id": "adv_531474df",
+        "question": "How does the special control requiring electromagnetic compatibility (EMC) validation within a hospital environment relate to the labeling requirement that the device be intended for use in a hospital environment under clinician supervision?",
+        "difficulty": "advanced",
+        "faithfulness": 0.875,
+        "context_recall": 0.6666666666666666,
+        "context_precision": 0.8666666666377778,
+        "answer_relevancy": 0.7727424412289445
+      }
+    ]
+  },
+  "cycle_3": {
+    "timestamp": "2026-06-03T01:46:45.941754",
+    "total_questions": 40,
+    "pipeline_errors": 0,
+    "avg_faithfulness": 0.6862,
+    "avg_context_recall": 0.6452,
+    "avg_context_precision": 0.5376,
+    "avg_answer_relevancy": 0.5638,
+    "per_question": [
+      {
+        "query_id": "bas_9cfb833b",
+        "question": "When may an investigator request written informed consent from a potential subject?",
+        "difficulty": "basic",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": 0.881089670906848
+      },
+      {
+        "query_id": "adv_c6bc8787",
+        "question": "How does the result of the risk‑based assessment (question A1.5) dictate whether a labeling change to an IVD requires a new 510(k) submission versus only documentation, as demonstrated in the two scenarios provided?",
+        "difficulty": "advanced",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": 0.7779888647950468
+      },
+      {
+        "query_id": "int_6c42e2bc",
+        "question": "According to its identification, under what condition must a blood pressure alarm emit an alarm?",
+        "difficulty": "intermediate",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_86ca2024",
+        "question": "What is the FDA classification for an indirect pacemaker generator function analyzer?",
+        "difficulty": "basic",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": NaN
+      },
+      {
+        "query_id": "bas_fca0b401",
+        "question": "According to 807.81(a)(3), when must a manufacturer submit a new 510(k) for a change?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": NaN
+      },
+      {
+        "query_id": "int_59f88087",
+        "question": "Under what circumstances must an importer submit a report directly to the FDA, and when is the importer required to submit the report only to the manufacturer?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.2222222222222222,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.8726588635756874
+      },
+      {
+        "query_id": "adv_d1527304",
+        "question": "Based on the provided examples, how does the answer to D3 (risk‑based assessment) determine whether a manufacturer must submit a new 510(k) or can rely on documentation alone for a change to an IVD device?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8571428571428571,
+        "context_recall": 0.3333333333333333,
+        "context_precision": 0.7100649350547913,
+        "answer_relevancy": 0.8993061968746451
+      },
+      {
+        "query_id": "int_49d9c510",
+        "question": "When may an FDA order be served by registered mail rather than in person?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.04336549395178127
+      },
+      {
+        "query_id": "int_cc596291",
+        "question": "Under what circumstances may the person named in a cease distribution and notification order stop submitting status reports, and which regulation provides the authority to do so?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.012747985402882467
+      },
+      {
+        "query_id": "bas_9f92d8fd",
+        "question": "What classification is assigned to a roller-type cardiopulmonary bypass blood pump?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.06518187713717123
+      },
+      {
+        "query_id": "bas_8d446ea2",
+        "question": "Does changing a device labeled for single use only to a device labeled as reusable typically require a new 510(k) submission?",
+        "difficulty": "basic",
+        "faithfulness": 0.75,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.9793865261822418
+      },
+      {
+        "query_id": "int_a82a9656",
+        "question": "Under what condition is a pacemaker test magnet exempt from the premarket notification procedures?",
+        "difficulty": "intermediate",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": -0.0
+      },
+      {
+        "query_id": "int_10b4db37",
+        "question": "According to §820.150, when a product's quality deteriorates over time, what storage method must be used and what assessment is required?",
+        "difficulty": "intermediate",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.7900528366199562
+      },
+      {
+        "query_id": "adv_cbc0cfb1",
+        "question": "According to the assessment, how does the conclusion that the dimensional reduction and coating removal do not create new or significantly modified risks influence the requirement for clinical data and the need to submit a 510(k) in steps B5.3 and B5.4?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.7799143004247272
+      },
+      {
+        "query_id": "bas_a5e0e8c1",
+        "question": "Which section of the Act defines the failure to have an approved postmarket surveillance plan as a prohibited act?",
+        "difficulty": "basic",
+        "faithfulness": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.7909782597123005
+      },
+      {
+        "query_id": "int_43c5ef70",
+        "question": "If a cardiopulmonary bypass accessory equipment involves an electrical connection to the patient, what classification does it receive and what special controls apply?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": NaN,
+        "answer_relevancy": 0.08459033912075986
+      },
+      {
+        "query_id": "int_f94c4378",
+        "question": "Under what circumstances will the FDA issue an order temporarily suspending approval of a PMA?",
+        "difficulty": "intermediate",
+        "faithfulness": NaN,
+        "context_recall": 1.0,
+        "context_precision": NaN,
+        "answer_relevancy": NaN
+      },
+      {
+        "query_id": "int_e18e9a91",
+        "question": "When performing a risk assessment, what categories of harm should manufacturers consider, and what specific elements of hazardous situations are they required to analyze?",
+        "difficulty": "intermediate",
+        "faithfulness": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN,
+        "answer_relevancy": NaN
+      },
+      {
+        "query_id": "bas_8c38bda8",
+        "question": "According to the guidance, which labeling changes require submission of a new 510(k)?",
+        "difficulty": "basic",
+        "faithfulness": null,
+        "context_recall": null,
+        "context_precision": null,
+        "answer_relevancy": null
+      },
+      {
+        "query_id": "bas_37974063",
+        "question": "What classification is assigned to a steerable catheter control system under the FDA regulations?",
+        "difficulty": "basic",
+        "faithfulness": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "int_6a29fe86",
+        "question": "What are the three categories of class III medical devices to which §814.1 applies, and what specific criteria define each category?",
+        "difficulty": "intermediate",
+        "faithfulness": 1.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.12531765567290362
+      },
+      {
+        "query_id": "adv_720992d9",
+        "question": "How does the Class II (special controls) classification of a cardiopulmonary bypass level sensing monitor and/or control influence its premarket notification obligations, and what specific limitation governs this exemption?",
+        "difficulty": "advanced",
+        "faithfulness": 0.625,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.8609790579459218
+      },
+      {
+        "query_id": "adv_9cfeeae9",
+        "question": "When a manufacturer or importer initiates a correction or removal to reduce a health risk but does not have a seven‑digit registration number, how must the report number be formatted, and what does FDA do with reports that lack a seven‑digit registration number?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.9034272841681661
+      },
+      {
+        "query_id": "adv_c1d9e35f",
+        "question": "How does the requirement that human factors testing demonstrate a user’s ability to correctly interpret device output (requirement 4(ii)) relate to the labeling requirement to provide guidance on interpretation of results (requirement 5(v))?",
+        "difficulty": "advanced",
+        "faithfulness": 0.5833333333333334,
+        "context_recall": 1.0,
+        "context_precision": 0.9765432098656928,
+        "answer_relevancy": 0.4008665335845231
+      },
+      {
+        "query_id": "adv_d0daf985",
+        "question": "According to §801.127, what happens to the exemption for a device originally covered by §§801.119, 801.122, or 801.125 if it is relabeled to comply with section 502(f)(1) before being used for its exempt purpose, and how does a subsequent conversion of that device to a form limited to prescription dispensing affect its exemption status?",
+        "difficulty": "advanced",
+        "faithfulness": 0.8,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.6905442586847723
+      },
+      {
+        "query_id": "bas_cbee2b4f",
+        "question": "Does submission of a premarket notification denote official approval of the device?",
+        "difficulty": "basic",
+        "faithfulness": 0.75,
+        "context_recall": 1.0,
+        "context_precision": 0.38525641024870516,
+        "answer_relevancy": 0.6383562600887339
+      },
+      {
+        "query_id": "bas_55b6f383",
+        "question": "What is the FDA classification for a cardiopulmonary bypass heart-lung machine console?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.9666666666473333,
+        "answer_relevancy": 0.950891796972194
+      },
+      {
+        "query_id": "int_b99ead3f",
+        "question": "According to the special controls for apical closure devices, what specific information must be included on the device labeling?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8333333333333334,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999,
+        "answer_relevancy": 0.9062750660938321
+      },
+      {
+        "query_id": "int_beb54578",
+        "question": "When does a cardiac monitor (including cardiotachometer and rate alarm) sound an alarm according to its identification description?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.0,
+        "context_recall": NaN,
+        "context_precision": 0.0,
+        "answer_relevancy": NaN
+      },
+      {
+        "query_id": "adv_c2301011",
+        "question": "How does the requirement for submitting a PMA or a premarket notification for non‑humanitarian use devices relate to the two‑step process for obtaining marketing approval of a HUD described in this section?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625,
+        "answer_relevancy": 0.4534832246172202
+      },
+      {
+        "query_id": "adv_b692c45b",
+        "question": "If FDA denies approval of a PMA because a nonclinical laboratory study was not conducted in compliance with the good laboratory practice regulations in part 58, what specific information must the denial order contain, and how must FDA publicly announce the denial?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0
+      },
+      {
+        "query_id": "bas_3443521a",
+        "question": "Who grants exemptions from sections 510, 519, and 520(f) under §860.15?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995,
+        "answer_relevancy": 0.7452251162643638
+      },
+      {
+        "query_id": "bas_01d86bd9",
+        "question": "What classification is assigned to an automated external defibrillator (AED) system?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.028466701411290495
+      },
+      {
+        "query_id": "bas_d800f972",
+        "question": "What classification is assigned to a vena cava clip?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.642857142825,
+        "answer_relevancy": 0.9706826281161162
+      },
+      {
+        "query_id": "bas_e71d559e",
+        "question": "What is the FDA classification for the software-based optical camera measurement device?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.08109455340571808
+      },
+      {
+        "query_id": "bas_e19cd327",
+        "question": "According to the guidance, does it recommend using a specific software life cycle model?",
+        "difficulty": "basic",
+        "faithfulness": 0.75,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999857143,
+        "answer_relevancy": 0.9109420509017934
+      },
+      {
+        "query_id": "int_ec8e6ffc",
+        "question": "If a manufacturer reduces the diameter of a urinary drainage (Foley) catheter to a size that falls within the range of diameters previously cleared, is a new 510(k) submission required?",
+        "difficulty": "intermediate",
+        "faithfulness": 0.8571428571428571,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999833333,
+        "answer_relevancy": 0.8764733736258301
+      },
+      {
+        "query_id": "bas_0ad4f98e",
+        "question": "What is the FDA classification for a cardiopulmonary bypass defoamer?",
+        "difficulty": "basic",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.6333333333122222,
+        "answer_relevancy": 0.9682264232796952
+      },
+      {
+        "query_id": "adv_da661ae0",
+        "question": "How does the guidance's statement that it does not create rights or bind the FDA enable a manufacturer to use an alternative approach, and what procedure does the text prescribe for discussing that alternative with the Agency?",
+        "difficulty": "advanced",
+        "faithfulness": 1.0,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998,
+        "answer_relevancy": 0.7456323953507255
+      },
+      {
+        "query_id": "adv_531474df",
+        "question": "How does the special control requiring electromagnetic compatibility (EMC) validation within a hospital environment relate to the labeling requirement that the device be intended for use in a hospital environment under clinician supervision?",
+        "difficulty": "advanced",
+        "faithfulness": 0.4444444444444444,
+        "context_recall": 0.6666666666666666,
+        "context_precision": 0.45119047617919644,
+        "answer_relevancy": 0.9336904282704307
+      }
+    ]
+  }
+}

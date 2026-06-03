@@ -1,0 +1,722 @@
+[
+  {
+    "query_id": "bas_223bafa8",
+    "question": "What financial disclosure information must a sponsor obtain from each participating investigator?",
+    "ground_truth": "Sufficient accurate financial disclosure information to allow the sponsor to submit a complete and accurate certification or disclosure statement as required under part 54 of this chapter, and the sponsor shall obtain a commitment from the clinical investigator to promptly update this information if any relevant changes occur during the course of the investigation and for 1 year following completion of the study.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-812-812.43",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  },
+  {
+    "query_id": "adv_71cfbfa5",
+    "question": "What distinguishes the exemption for licensed practitioners under paragraph (d) from the exemption for persons who dispense devices to the ultimate consumer under paragraph (i) in terms of the activities that qualify for exemption and the type of devices involved?",
+    "ground_truth": "Paragraph (d) exempts licensed practitioners (physicians, dentists, optometrists) who manufacture or otherwise alter devices solely for use in their own practice. The activity is limited to creation or modification of devices for internal use. Paragraph (i) exempts persons whose primary role is to dispense devices to the ultimate consumer or to render a service using a previously manufactured device, such as hearing‑aid dispensers, opticians, clinical laboratories, assemblers of diagnostic x‑ray systems, and hospital or clinic personnel. The activity is limited to distribution or service provision, not manufacturing or alteration. Both classes are exempt from registration, but (d) covers in‑practice manufacturing/alteration, whereas (i) covers dispensing or service delivery of already manufactured devices.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-807-807.65",
+    "source_collection": "ecfr",
+    "cfr_part": 807
+  },
+  {
+    "query_id": "bas_46870119",
+    "question": "What documentation is required for the final compilation of the source code?",
+    "ground_truth": "The final compilation must be documented with the compilation process and its outcome, including any warnings or other messages from the compiler and their resolution, or justification for the decision to leave issues unresolved.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec44",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_097a468a",
+    "question": "What special control does the FDA assign to a cardiopulmonary bypass arterial line blood filter, and how does this special control correspond to the device’s classification?",
+    "ground_truth": "The device is classified as Class II (special controls). The special control for this device is the FDA guidance document entitled “Guidance for Cardiopulmonary Bypass Arterial Line Blood Filter 510(k) Submissions” (referenced in 45 FR 7907, Feb. 5, 1980, as amended at 52 FR 17737, May 11, 1987; 66 FR 18542, Apr. 10, 2001).",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-870-870.4260",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_5c7b3749",
+    "question": "If a manufacturer stops distributing a tracked device but continues other business activities, when does the manufacturer cease to be responsible for compliance with the tracking regulations?",
+    "ground_truth": "The manufacturer continues to be responsible for compliance with this part unless another person, affirmatively and in writing, assumes responsibility for continuing the tracking of devices previously distributed under this part.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-821-821.1",
+    "source_collection": "ecfr",
+    "cfr_part": 821
+  },
+  {
+    "query_id": "int_ac4da1f5",
+    "question": "When will the labeling of device ABC be updated and what specific elements will be changed?",
+    "ground_truth": "The labeling will be updated after ABC was acquired from Corporation X, to make it consistent with our standard labeling; the specific elements to be changed are the company logo, name, contact information, and labeling layout.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-1500054-sec94",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_f8ff04cb",
+    "question": "Within how many days must FDA send an approval order, approvable letter, not approvable letter, or denial order after receiving an HDE that is accepted for filing and has no major amendment?",
+    "ground_truth": "Within 75 days after receipt of the HDE.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-814-814.114",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "bas_f9cce9ee",
+    "question": "According to the text, when is a new 510(k) submission likely required regarding clinical data for design validation?",
+    "ground_truth": "Whenever a manufacturer recognizes that clinical data are needed because bench testing or simulations are not sufficient to assess the impact of the change on safety or effectiveness to validate the design change, submission of a new 510(k) is likely required.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec46",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_3172ad56",
+    "question": "If the FDA orders prospective surveillance for a period longer than 36 months and the manufacturer does not agree, what mechanism does the FDA use to resolve the dispute, and where can the manufacturer obtain guidance on the dispute resolution procedures?",
+    "ground_truth": "The FDA will use the Medical Devices Dispute Resolution Panel to resolve the matter, and the manufacturer may obtain guidance regarding dispute resolution procedures from the Center for Devices and Radiological Health's (CDRH) website at http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHOmbudsman/default.htm.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-822-822.15",
+    "source_collection": "ecfr",
+    "cfr_part": 822
+  },
+  {
+    "query_id": "int_7719dd4b",
+    "question": "When may a manufacturer adopt an approach different from that outlined in FDA guidance documents for preparing a postmarket surveillance submission?",
+    "ground_truth": "A manufacturer may use an alternative approach as long as it complies with the relevant statutes (laws) and regulations. Additionally, the manufacturer can request a meeting with the FDA to discuss whether the alternative approach will satisfy the requirements of the act and regulations.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-822-822.12",
+    "source_collection": "ecfr",
+    "cfr_part": 822
+  },
+  {
+    "query_id": "bas_0db09805",
+    "question": "To what must calibration standards used for inspection, measuring, and test equipment be traceable?",
+    "ground_truth": "Calibration standards must be traceable to national or international standards.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-820-820.72",
+    "source_collection": "ecfr",
+    "cfr_part": 820
+  },
+  {
+    "query_id": "int_280f146e",
+    "question": "Which listed standard provides guidance on formal design reviews?",
+    "ground_truth": "ANSI / ASQC Standard D1160-1995, Formal Design Reviews",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec55",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_120b85c5",
+    "question": "According to the text, which specific sections must be included in a Software Quality Assurance Plan to address software verification and validation activities?",
+    "ground_truth": "The plan must include Verification and Validation Tasks and Acceptance Criteria; Schedule and Resource Allocation for software verification and validation activities; Reporting Requirements; Formal Design Review Requirements; Other Technical Review Requirements; Problem Reporting and Resolution Procedures; and Other Support Activities.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec41",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_49607863",
+    "question": "If FDA does not find any of the refusal reasons listed in paragraph (c)(1) applicable and also fails to complete the acceptance review within 15 days, what action does FDA take and what specific information is included in the notice to the requester?",
+    "ground_truth": "FDA will accept the De Novo request for review and will notify the requester. The notice will include the De Novo request reference number and the date FDA accepted the De Novo request. The date of acceptance is the date that an accepted De Novo request was received by FDA.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-860-860.230",
+    "source_collection": "ecfr",
+    "cfr_part": 860
+  },
+  {
+    "query_id": "adv_e3bf54f2",
+    "question": "Can a manufacturer claim an exemption for insufficient label space when the shortage is caused by using label space for a non‑required design, and how do §801.15(a)(4) and §801.15(b)(1) address this situation?",
+    "ground_truth": "No. While §801.15(a)(4) identifies that using label space for any word, statement, design, or device not required by the act can result in insufficient label space for the prominent placement of required information, §801.15(b)(1) expressly states that no exemption for insufficiency of label space shall apply if the insufficiency is caused by the use of label space for any word, statement, design, or device which is not required by or under authority of the act to appear on the label.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-801-801.15",
+    "source_collection": "ecfr",
+    "cfr_part": 801
+  },
+  {
+    "query_id": "bas_7261e651",
+    "question": "Where must records required to be kept by this part be stored for each manufacturer or distributor within the United States?",
+    "ground_truth": "In a centralized point for each manufacturer or distributor within the United States.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-821-821.50",
+    "source_collection": "ecfr",
+    "cfr_part": 821
+  },
+  {
+    "query_id": "int_ea2ce45d",
+    "question": "What classification is assigned to a cardiopulmonary bypass pump speed control, and what regulatory standard is associated with that classification?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.4380",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_5af473a1",
+    "question": "When a participating investigator uses an investigational device without obtaining informed consent, what specific documentation must be included in the case history records?",
+    "ground_truth": "The case history must include a written concurrence of a licensed physician and a brief description of the circumstances justifying the failure to obtain informed consent.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-812-812.140",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  },
+  {
+    "query_id": "int_ac24c319",
+    "question": "If safety and effectiveness data for a device were initially confidential because the device was classified as class III, under what condition and after what time period will that data become publicly available if the device is later classified into class I or II?",
+    "ground_truth": "The data will become publicly available 30 days after the publication of a final regulation classifying the device into class I or class II, unless within that 30‑day period the person who submitted the data demonstrates that the data still fall within the exemption for trade secrets and confidential commercial information described in § 20.61.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-860-860.5",
+    "source_collection": "ecfr",
+    "cfr_part": 860
+  },
+  {
+    "query_id": "int_3ccc16db",
+    "question": "According to the examples, under what circumstances does a change to a device require a new 510(k) submission instead of only documentation?",
+    "ground_truth": "A new 510(k) is required when the change involves a material processing alteration that introduces a new chemical (e.g., residue from acid‑etching) creating a new or increased biocompatibility risk, and the manufacturer has not previously used that material or process in a similar legally marketed device.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-1500054-sec88",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_5efcc0e5",
+    "question": "According to § 807.39, does registration of a device establishment or assignment of a registration number indicate FDA approval of the establishment or its products?",
+    "ground_truth": "No, registration of a device establishment or assignment of a registration number does not denote approval of the establishment or its products.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-807-807.39",
+    "source_collection": "ecfr",
+    "cfr_part": 807
+  },
+  {
+    "query_id": "int_ba2d0615",
+    "question": "Who must review and approve changes to documents, and under what condition can a different individual be designated to do so?",
+    "ground_truth": "Changes to documents must be reviewed and approved by an individual(s) in the same function or organization that performed the original review and approval, unless specifically designated otherwise.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-820-820.40",
+    "source_collection": "ecfr",
+    "cfr_part": 820
+  },
+  {
+    "query_id": "int_1ca0a379",
+    "question": "According to § 870.4390, what material must a cardiopulmonary bypass pump tubing be made of, and how is it classified under the FDA device classification system?",
+    "ground_truth": "A cardiopulmonary bypass pump tubing must be polymeric tubing that is used in the blood pump head and cyclically compressed by the pump, and it is classified as Class II (performance standards).",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.4390",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_0d084335",
+    "question": "What information must be included in a premarket notification submission to describe the device's intended use?",
+    "ground_truth": "Proposed labels, labeling, and advertisements sufficient to describe the device, its intended use, and the directions for its use.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-807-807.87",
+    "source_collection": "ecfr",
+    "cfr_part": 807
+  },
+  {
+    "query_id": "bas_cef76ec6",
+    "question": "What is the maximum time FDA has to provide a written determination after receiving an IDE for a clinical investigation that involves an exception from informed consent?",
+    "ground_truth": "FDA shall provide a written determination 30 days after FDA receives the IDE or earlier.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-812-812.20",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  },
+  {
+    "query_id": "bas_90bb3d62",
+    "question": "By what date must a PMA or notice of completion of a product development protocol be filed with the FDA for a nonroller-type temporary ventricular support blood pump that was in commercial distribution before May 28, 1976?",
+    "ground_truth": "On or before September 8, 2015.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.4360",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "adv_d0e1e81f",
+    "question": "Does submitting a report, or the FDA’s release of that report, constitute an admission that the device, the submitter, or the submitter’s employees caused or contributed to the reportable event, and may the submitter deny such an admission?",
+    "ground_truth": "No. A report or other information submitted by you, and our release of that report or information, is not necessarily an admission that the device, or you or your employees, caused or contributed to the reportable event. You do not have to admit and may deny that the report or information submitted under this part constitutes an admission that the device, you, or your employees, caused or contributed to a reportable event.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-803-803.16",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "bas_1b5ade38",
+    "question": "What regulatory submission is required for the manufacturer after changing the catheter material from A to B?",
+    "ground_truth": "New 510(k)",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec85",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_69b5a678",
+    "question": "Does the addition of a foot switch to the endoscopic electrosurgical unit significantly affect the use of the device?",
+    "ground_truth": "No",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec80",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_9570189d",
+    "question": "What classification is assigned to a catheter tip pressure transducer and what does that classification imply regarding regulatory requirements?",
+    "ground_truth": "A catheter tip pressure transducer is classified as Class II, which means it is subject to performance standards.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-870-870.2870",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "adv_bd992f15",
+    "question": "When a device manufacturer or importer transfers ownership of a device to a new manufacturer or importer, what are the requirements for the records of corrections and removals that were not required to be reported to FDA, and how long must those records be retained?",
+    "ground_truth": "The records of corrections and removals that were not required to be reported to FDA must be transferred to the new manufacturer or importer of the device, and the new owner must retain those records for a period of 2 years beyond the expected life of the device, even if the original manufacturer or importer has ceased to manufacture or import the device.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-806-806.20",
+    "source_collection": "ecfr",
+    "cfr_part": 806
+  },
+  {
+    "query_id": "int_e47230e2",
+    "question": "Under what circumstances may a request for an exception or alternative to labeling requirements be submitted for devices in the Strategic National Stockpile, and what specific information must that written request contain?",
+    "ground_truth": "A request may be submitted by a Strategic National Stockpile official or any entity that manufactures, distributes, or stores devices that are or will be included in the Strategic National Stockpile, provided the request includes written concurrence from a Strategic National Stockpile official. The written request must (i) identify the specific lots, batches, or other units of the device subject to the exception or alternative; (ii) identify the labeling provision(s) in paragraph (f) that are the subject of the request; (iii) explain why compliance with those labeling provision(s) could adversely affect the safety, effectiveness, or availability of the specified units in the Strategic National Stockpile; (iv) describe any proposed safeguards or conditions to ensure the labeling includes appropriate information for safe and effective use; (v) provide a draft of the proposed labeling for the specified units; and (vi) provide any other information the Center Director may request.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-801-801.128",
+    "source_collection": "ecfr",
+    "cfr_part": 801
+  },
+  {
+    "query_id": "bas_78adb023",
+    "question": "What is generally required when a device-specific final guidance identifies a change that could significantly affect safety or effectiveness?",
+    "ground_truth": "Submission of a new 510(k) is generally required.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec55",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_d79bf9ea",
+    "question": "What is a primary goal of software validation according to the text?",
+    "ground_truth": "A primary goal of software validation is to demonstrate that all completed software products comply with all documented software and system requirements.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec21",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_f2ead877",
+    "question": "What criteria determine whether a manufacturer should proceed from question C2 to question C3 when evaluating a material change?",
+    "ground_truth": "If there is any change in material type, material formulation, chemical composition, or the material’s processing—including changes in supplier, manufacturer, or processing/finishing steps—the manufacturer should proceed to C3. If none of these changes exist, it is unlikely that a new 510(k) submission is required.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-1500054-sec50",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_c6e8ebc0",
+    "question": "What classification is assigned to a programmable diagnostic computer?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.1425",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_85003fa6",
+    "question": "Under what classification and special control is a pacemaker lead adaptor regulated?",
+    "ground_truth": "A pacemaker lead adaptor is classified as Class II (special controls), and the special control is the FDA guidance document entitled “Guidance for the Submission of Research and Marketing Applications for Permanent Pacemaker Leads and for Pacemaker Lead Adaptor 510(k) Submissions.”",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.3620",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_b1ae325a",
+    "question": "When a device change involves moving from electromechanical to microprocessor control, what process must be followed to decide if a new 510(k) submission is required?",
+    "ground_truth": "The manufacturer must first evaluate the technology, engineering, and performance change using the decision‑making logic scheme shown in Flowchart B. Then the change must be verified and/or validated according to the quality‑system requirements of 21 CFR 820.30(i). If the verification or validation results raise any unexpected issues, the decision about whether a new 510(k) is required must be re‑evaluated per paragraph B5.4.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-1500054-sec36",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_e61c9bf0",
+    "question": "According to §820.70(b), what three sequential regulatory actions must a manufacturer complete before implementing a change to a specification, method, process, or procedure, and which specific sections of the CFR authorize each action?",
+    "ground_truth": "The manufacturer must (1) verify or, where appropriate, validate the change as required by §820.75, (2) document those verification or validation activities, and (3) obtain approval for the change in accordance with §820.40.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-820-820.70",
+    "source_collection": "ecfr",
+    "cfr_part": 820
+  },
+  {
+    "query_id": "adv_0e1e515b",
+    "question": "How does the requirement for manufacturers to submit individual adverse event reports in electronic format interact with the exemption provision in § 803.19, and what format(s) are permissible for importer reports that are submitted to device manufacturers?",
+    "ground_truth": "Manufacturers and importers must submit individual adverse event reports to FDA in an electronic format in accordance with § 803.12(a) and § 803.20, unless they have been granted an exemption under § 803.19. Importer reports that are submitted to device manufacturers may be submitted in paper format or in an electronic format that includes all required data fields.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-803-803.11",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "int_62632d85",
+    "question": "What information must be included in or referenced by the Design History File to demonstrate that a device's design was developed in accordance with the Design Plan and Quality System requirements?",
+    "ground_truth": "The Design History File must include, or reference, records containing information necessary to demonstrate that the design was developed in accordance with the Design Plan and Quality System requirements.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-Design-Controls---Slides-sec11",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_01a8ee9c",
+    "question": "If a combination product bears a proper National Drug Code (NDC) number on its label and its device constituent is physically combined as defined in §3.2(e)(1), is the device constituent required to bear a UDI, and which regulatory provision provides this exemption?",
+    "ground_truth": "No, the device constituent is not required to bear a UDI; the exemption is provided under §801.30(b)(2), which states that a device constituent of a combination product that is physically, chemically, or otherwise combined and the combination product bears a proper NDC number is not subject to the requirements of §801.20.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-801-801.30",
+    "source_collection": "ecfr",
+    "cfr_part": 801
+  },
+  {
+    "query_id": "int_fe00dc53",
+    "question": "According to the special controls for this percutaneous catheter, what performance data must be provided to demonstrate sterility, and what specific labeling information must be included regarding the device’s sterility and shelf life?",
+    "ground_truth": "The special controls require performance data that (7) demonstrates the sterility of the device components intended to be provided sterile, and (8) supports the shelf life of the device by showing continued sterility, package integrity, and device functionality over the identified shelf life. The labeling must include (9)(v) a shelf life and storage conditions.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.1252",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_be8d058d",
+    "question": "Under what circumstances must a manufacturer file a PMA or notice of completion of a PDP for a permanent pacemaker electrode, and what deadline applies?",
+    "ground_truth": "A PMA or notice of completion of a PDP must be filed with the FDA on or before October 4, 2012 for any permanent pacemaker electrode device that was in commercial distribution before May 28, 1976, or that has, on or before October 4, 2012, been found to be substantially equivalent to any permanent pacemaker electrode device that was in commercial distribution before May 28, 1976. Additionally, any other pacemaker repair or replacement material device must have an approved PMA or declared completed PDP in effect before being placed in commercial distribution.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.3680",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_d8ccd099",
+    "question": "According to §814.2, how does the status of a device's safety and effectiveness, along with meeting statutory criteria, determine whether a PMA is approved or disapproved?",
+    "ground_truth": "The part facilitates the approval of PMAs for devices that have been shown to be safe and effective and that otherwise meet the statutory criteria for approval, and it ensures the disapproval of PMAs for devices that have not been shown to be safe and effective or that do not otherwise meet the statutory criteria for approval.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-814-814.2",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "bas_0a775b7c",
+    "question": "In what form will FDA notify a submitter that additional information is required for a medical device report?",
+    "ground_truth": "FDA will notify the submitter in writing.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-803-803.15",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "adv_2b155c41",
+    "question": "According to this guidance, how does the FDA distinguish the regulatory responsibilities for software validation between a device manufacturer and an off‑the‑shelf software developer when the software is used in a medical device?",
+    "ground_truth": "The guidance states that when software is developed by someone other than the device manufacturer (e.g., off‑the‑shelf software), the software developer may not be directly responsible for compliance with FDA regulations. In that case, the party with regulatory responsibility—the device manufacturer—must assess the adequacy of the off‑the‑shelf software developer’s activities and determine what additional efforts are needed to establish that the software is validated for the manufacturer’s intended use.",
+    "difficulty": "advanced",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec10",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_b4747f27",
+    "question": "If a manufacturer's employee who does not hold management or supervisory responsibilities learns of a reportable adverse event that must be reported within 30 calendar days, does the manufacturer consider itself to have 'become aware' of the event for reporting purposes?",
+    "ground_truth": "Yes. The regulation states that a manufacturer is considered to have become aware of an event when any of its employees becomes aware of a reportable event that is required to be reported within 30 calendar days (or within 5 work days if requested under § 803.53(b)). This applies regardless of the employee’s managerial or supervisory status.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-803-803.3",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "bas_63a1e129",
+    "question": "Where should individuals who do not have internet access direct requests for establishment registration and device listing information?",
+    "ground_truth": "Requests should be directed to the Imports and Registration and Listing Team, Division of Regulatory Programs 2, Office of Regulatory Programs, Office of Product Evaluation and Quality, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Rm.1432, Silver Spring, MD 20993-0002.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-807-807.37",
+    "source_collection": "ecfr",
+    "cfr_part": 807
+  },
+  {
+    "query_id": "bas_fee04de4",
+    "question": "According to § 814.20(a), who must countersign a PMA when the applicant does not reside or have a place of business within the United States?",
+    "ground_truth": "The PMA must be countersigned by an authorized representative who resides in or maintains a place of business in the United States, and the representative’s name and address must be identified.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-814-814.20",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "bas_7920cecf",
+    "question": "What FDA submission type is required for the change described in scenario a?",
+    "ground_truth": "New 510(k)",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec86",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_21e599a4",
+    "question": "What is the maximum acceptable concentration of ozone in the atmosphere of an enclosed space intended to be occupied by people for extended periods of time?",
+    "ground_truth": "0.05 part per million by volume of air circulating through the device (when measured under standard conditions at 25 °C (77 °F) and 760 millimeters of mercury).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-801-801.415",
+    "source_collection": "ecfr",
+    "cfr_part": 801
+  },
+  {
+    "query_id": "int_b7956377",
+    "question": "Which references listed were published in 1995 and are related to software testing, and what specific aspect of testing does each address?",
+    "ground_truth": "The 1995 references related to software testing are: 1) Boris Beizer, \"Black Box Testing, Techniques for Functional Testing of Software and Systems\" – focuses on functional testing techniques. 2) Michael A. Friedman and Jeffrey M. Voas, \"Software Assessment - Reliability, Safety, Testability\" – addresses assessment of software reliability, safety, and testability.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec57",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_66671e07",
+    "question": "Does the change affect the device’s performance specifications?",
+    "ground_truth": "Yes",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec106",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_5227db3e",
+    "question": "If a device that is already in commercial distribution is about to be significantly changed, under what condition can the manufacturer be exempt from submitting a premarket notification according to this section?",
+    "ground_truth": "The manufacturer is exempt from submitting a premarket notification if there is a predetermined change control plan (PCCP) cleared under section 515C of the act and the change is consistent with that PCCP, as stated in § 807.81(b)(1)(ii). Additionally, the FDA Center Director may determine that a written request for an exception or alternative under § 801.128 or § 809.11 satisfies the requirement, but the primary exemption is the approved PCCP.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-807-807.81",
+    "source_collection": "ecfr",
+    "cfr_part": 807
+  },
+  {
+    "query_id": "bas_0ca3ca6e",
+    "question": "What is the FDA decision for the change described in scenario a?",
+    "ground_truth": "New 510(k).",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec83",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_0a731485",
+    "question": "What classification is assigned to a standard PTCA catheter?",
+    "ground_truth": "Class II (special controls).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.5100",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_408337b3",
+    "question": "Under what specific conditions is a catheter guide wire exempt from the premarket notification procedures in subpart E of part 807?",
+    "ground_truth": "The device is exempt when it is a torque device that is manually operated, non‑patient contacting, and intended to manipulate non‑cerebral vascular guide wires, subject to the limitations in § 870.9.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.1330",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_68f9b78f",
+    "question": "What must manufacturers do with records of design changes according to the text?",
+    "ground_truth": "They must keep records, and these records must be made available to an FDA investigator upon request.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec10",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_3383c1f2",
+    "question": "According to § 812.100, what responsibilities must an investigator fulfill to ensure the investigation is properly conducted and subjects are protected, and which specific part of the FDA regulations governs the informed consent process?",
+    "ground_truth": "An investigator must ensure that the investigation is conducted in accordance with the signed agreement, the investigational plan, and applicable FDA regulations; protect the rights, safety, and welfare of subjects under the investigator's care; control the devices under investigation; and ensure that informed consent is obtained in accordance with part 50 of this chapter.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-812-812.100",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  },
+  {
+    "query_id": "bas_e8b7bffe",
+    "question": "According to §822.11, what must your postmarket surveillance design address?",
+    "ground_truth": "You must design your surveillance to address the postmarket surveillance question identified in the order you received.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-822-822.11",
+    "source_collection": "ecfr",
+    "cfr_part": 822
+  },
+  {
+    "query_id": "int_1acc08e5",
+    "question": "When must a manufacturer perform revalidation of a validated process, and what documentation is required for that activity?",
+    "ground_truth": "The manufacturer must perform revalidation when changes or process deviations occur, after reviewing and evaluating the process, and these activities shall be documented.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-820-820.75",
+    "source_collection": "ecfr",
+    "cfr_part": 820
+  },
+  {
+    "query_id": "bas_e0940c75",
+    "question": "What regulatory decision is required for the labeling change of the RF device that expands indications to severe wrinkles on the decollatage?",
+    "ground_truth": "New 510(k)",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec66",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_b3e0668b",
+    "question": "According to §860.7, which categories of evidence are excluded from being considered valid scientific evidence for safety or effectiveness, and what alternative role can such information play in the FDA's evaluation?",
+    "ground_truth": "Isolated case reports, random experience, reports lacking sufficient details to permit scientific evaluation, and unsubstantiated opinions are not regarded as valid scientific evidence to show safety or effectiveness. However, such information may be considered in identifying a device with questionable safety or effectiveness.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-860-860.7",
+    "source_collection": "ecfr",
+    "cfr_part": 860
+  },
+  {
+    "query_id": "bas_ddddb74f",
+    "question": "What type of order does FDA issue when none of the reasons in § 814.45 for denying approval of the application applies?",
+    "ground_truth": "FDA will issue an order approving a PMA.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-814-814.44",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "adv_8813d561",
+    "question": "Based on the provided text, would a person who merely repackages a finished device without significantly altering its performance, safety specifications, or intended use be considered a remanufacturer under 21 CFR 820.3(w)?",
+    "ground_truth": "No. The definition of remanufacturer in 21 CFR 820.3(w) requires that the person performs an act—such as repackaging—that \"significantly changes the finished device’s performance or safety specifications, or intended use.\" If repackaging does not result in a significant change to those attributes, the person would not meet the definition of a remanufacturer.",
+    "difficulty": "advanced",
+    "source_chunk_id": "fda-1500054-sec14",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_e5cbe81e",
+    "question": "What classification is a blood pressure cuff assigned under FDA regulations?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.1120",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_b1e60084",
+    "question": "What are the required submission timelines for a user facility compared to an importer when reporting a device that may have caused a death or serious injury?",
+    "ground_truth": "A user facility must submit MDR reports to the manufacturer and to the FDA no later than 10 work days after becoming aware of information that reasonably suggests the device caused or may have caused a death, and must submit to the manufacturer no later than 10 work days after becoming aware of information that reasonably suggests a serious injury. An importer must submit MDR reports to the manufacturer and to the FDA no later than 30 calendar days after becoming aware of information that reasonably suggests the device caused or may have caused a death or serious injury, and must submit to the manufacturer no later than 30 calendar days after receiving information that a device it markets has malfunctioned and would likely cause a death or serious injury if the malfunction recurred.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-803-803.20",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "int_eaaa15b3",
+    "question": "Under what conditions might software validation tasks be iterated multiple times rather than performed as one‑time occurrences?",
+    "ground_truth": "Software validation tasks may be iterated many times depending on the life cycle model used and the scope of changes made as the software project progresses.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec36",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_74faf61b",
+    "question": "According to the text, which elements are included in a device user interface?",
+    "ground_truth": "A device user interface includes displays, controls, packaging, product labels, and directions for use.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec112",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_a4c6fe1b",
+    "question": "What type of device is considered to have an approved PMA when its product development protocol is declared completed by the FDA?",
+    "ground_truth": "A class III device for which a product development protocol has been declared completed by the FDA under this chapter.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-814-814.19",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "int_7422a9c2",
+    "question": "If a postmarket surveillance plan is expected to collect useful data that will address the surveillance question only after specific revisions are made or specific information is provided, what type of FDA communication will you receive and what actions must you take?",
+    "ground_truth": "You will receive an approvable letter identifying the specific revisions or information that must be submitted before your plan can be approved. You must revise your postmarket surveillance submission to address the concerns in the approvable letter and submit it to the FDA within the specified timeframe, which the FDA will determine case‑by‑case based on the required revisions or information.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-822-822.19",
+    "source_collection": "ecfr",
+    "cfr_part": 822
+  },
+  {
+    "query_id": "bas_e7c69570",
+    "question": "How long must a user facility retain an MDR event file related to an adverse event?",
+    "ground_truth": "For a period of 2 years from the date of the event.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-803-803.18",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "int_2b24ec50",
+    "question": "Does a combination product that properly bears a National Drug Code (NDC) number need to present its expiration or manufacture date in the YYYY‑MM‑DD format required by §801.18(a)?",
+    "ground_truth": "No; a combination product that properly bears an NDC number is exempt from the requirements of paragraph (a) and therefore does not need to present dates in the YYYY‑MM‑DD format.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-801-801.18",
+    "source_collection": "ecfr",
+    "cfr_part": 801
+  },
+  {
+    "query_id": "int_8a8f2d49",
+    "question": "What classification does the FDA assign to a steerable catheter, and for what primary purposes is it used?",
+    "ground_truth": "A steerable catheter is classified as Class II (performance standards) and is used for diagnostic and monitoring purposes.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.1280",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_8ed4ab45",
+    "question": "When must a device manufacturer perform system-level “black box” testing for off-the-shelf software and equipment?",
+    "ground_truth": "The manufacturer must perform sufficient system-level “black box” testing when necessary validation information is not available from the vendor—such as when the vendor does not provide required lifecycle documentation or refuses an audit—to establish that the software meets the manufacturer’s user needs and intended uses.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec52",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_b6e35c87",
+    "question": "What must sponsors submit to the FDA according to § 812.40?",
+    "ground_truth": "Sponsors must submit an IDE application to the FDA.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-812-812.40",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  },
+  {
+    "query_id": "int_e5ebbc34",
+    "question": "When may a device manufacturer apply the same procedures and records to both quality system compliance and pre‑market submissions?",
+    "ground_truth": "Device manufacturers may use the same procedures and records for compliance with quality system and design control requirements, as well as for pre‑market submissions to FDA.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec15",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_f15134dd",
+    "question": "If a user facility becomes aware that a device may have caused a serious injury but the device manufacturer is unknown, what reporting actions and deadlines must the facility follow?",
+    "ground_truth": "The facility must submit a report to the FDA (the Agency) no later than 10 work days after the day it becomes aware of the information. The report must include the information required by § 803.32 and be submitted in accordance with the requirements of § 803.12(b). The facility must also provide all information reasonably known to it, including documents it possesses and any information obtained through reasonable follow‑up within the facility.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-803-803.30",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "int_821e47fe",
+    "question": "If a portion of the investigation will be conducted at an institution that is not listed among the IRBs in paragraph (h), what specific information about that institution must be included in the investigational plan?",
+    "ground_truth": "The investigational plan must include the name and address of each such institution, as required in paragraph (i).",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-812-812.25",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  }
+]

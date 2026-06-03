@@ -1,0 +1,362 @@
+[
+  {
+    "query_id": "bas_9cfb833b",
+    "question": "When may an investigator request written informed consent from a potential subject?",
+    "ground_truth": "The investigator may request written informed consent only after obtaining IRB and FDA approval; before that, the investigator shall not request written informed consent.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-812-812.110",
+    "source_collection": "ecfr",
+    "cfr_part": 812
+  },
+  {
+    "query_id": "adv_c6bc8787",
+    "question": "How does the result of the risk‑based assessment (question A1.5) dictate whether a labeling change to an IVD requires a new 510(k) submission versus only documentation, as demonstrated in the two scenarios provided?",
+    "ground_truth": "In scenario (a), the risk‑based assessment (A1.5) identified new or significantly modified risks because removing the HAMA limitation could lead to false results and the user would no longer be alerted to a known risk; therefore the decision was to submit a new 510(k). In scenario (b), the risk‑based assessment (A1.5) found no new or significantly modified risks when adding a new limitation about a newly approved drug, so the decision was that only documentation was required.",
+    "difficulty": "advanced",
+    "source_chunk_id": "fda-1500054-sec68",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_6c42e2bc",
+    "question": "According to its identification, under what condition must a blood pressure alarm emit an alarm?",
+    "ground_truth": "It must emit an alarm when the blood pressure falls outside a pre-set upper or lower limit.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.1100",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_86ca2024",
+    "question": "What is the FDA classification for an indirect pacemaker generator function analyzer?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.3640",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_fca0b401",
+    "question": "According to 807.81(a)(3), when must a manufacturer submit a new 510(k) for a change?",
+    "ground_truth": "When a risk‑based assessment determines that the change could significantly affect safety or effectiveness, a new 510(k) is required even if verification and validation activities are completed successfully without any unexpected results.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec17",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_59f88087",
+    "question": "Under what circumstances must an importer submit a report directly to the FDA, and when is the importer required to submit the report only to the manufacturer?",
+    "ground_truth": "An importer must submit a report directly to the FDA (and also provide a copy to the manufacturer) when the information reasonably suggests that a marketed device may have caused or contributed to a death or serious injury. If the information reasonably suggests that a device has malfunctioned and that the malfunction would likely cause or contribute to a death or serious injury if it recurred, the importer is required to submit the report only to the manufacturer.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-803-803.40",
+    "source_collection": "ecfr",
+    "cfr_part": 803
+  },
+  {
+    "query_id": "adv_d1527304",
+    "question": "Based on the provided examples, how does the answer to D3 (risk‑based assessment) determine whether a manufacturer must submit a new 510(k) or can rely on documentation alone for a change to an IVD device?",
+    "ground_truth": "In the examples, when D3 – “Does a risk‑based assessment of the changed device identify any new risks or significantly modified existing risks?” – is answered “Yes,” the decision is to submit a new 510(k) (e.g., the column substrate change and the calibrator traceability change). When D3 is answered “No,” the decision is that documentation is sufficient (e.g., the reagent state change from liquid to lyophilized). Thus, a “Yes” answer to D3 triggers a new 510(k) requirement, whereas a “No” answer allows the change to be addressed with documentation alone.",
+    "difficulty": "advanced",
+    "source_chunk_id": "fda-1500054-sec90",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_49d9c510",
+    "question": "When may an FDA order be served by registered mail rather than in person?",
+    "ground_truth": "An FDA order may be served by registered mail to the applicant or the designated agent at the applicant's or designated agent's last known address in FDA's records.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-814-814.17",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "int_cc596291",
+    "question": "Under what circumstances may the person named in a cease distribution and notification order stop submitting status reports, and which regulation provides the authority to do so?",
+    "ground_truth": "The person may discontinue the submission of status reports when the agency terminates the order, as provided in § 810.17.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-810-810.16",
+    "source_collection": "ecfr",
+    "cfr_part": 810
+  },
+  {
+    "query_id": "bas_9f92d8fd",
+    "question": "What classification is assigned to a roller-type cardiopulmonary bypass blood pump?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.4370",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_8d446ea2",
+    "question": "Does changing a device labeled for single use only to a device labeled as reusable typically require a new 510(k) submission?",
+    "ground_truth": "Yes, changing a device labeled for single use only to a device labeled as reusable would likely require submission of a new 510(k).",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec26",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_a82a9656",
+    "question": "Under what condition is a pacemaker test magnet exempt from the premarket notification procedures?",
+    "ground_truth": "A pacemaker test magnet is exempt from the premarket notification procedures in subpart E of part 807 of this chapter, provided it complies with the limitations specified in § 870.9.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.3690",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_10b4db37",
+    "question": "According to §820.150, when a product's quality deteriorates over time, what storage method must be used and what assessment is required?",
+    "ground_truth": "The product must be stored in a manner that facilitates proper stock rotation, and its condition must be assessed as appropriate.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-820-820.150",
+    "source_collection": "ecfr",
+    "cfr_part": 820
+  },
+  {
+    "query_id": "adv_cbc0cfb1",
+    "question": "According to the assessment, how does the conclusion that the dimensional reduction and coating removal do not create new or significantly modified risks influence the requirement for clinical data and the need to submit a 510(k) in steps B5.3 and B5.4?",
+    "ground_truth": "The assessment concluded that there are no new or significantly modified risks (B5.2 – No). Consequently, the process proceeds to B5.3, where the answer is No, indicating that clinical data are not necessary for design validation, and no 510(k) submission is required. The flow then moves to B5.4, where the answer is also No, meaning design verification/validation did not produce unexpected safety or effectiveness issues; the result is documented in the file, and again no 510(k) submission is required.",
+    "difficulty": "advanced",
+    "source_chunk_id": "fda-1500054-sec105",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_a5e0e8c1",
+    "question": "Which section of the Act defines the failure to have an approved postmarket surveillance plan as a prohibited act?",
+    "ground_truth": "It is a prohibited act under section 301(q)(1)(C) of the act.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-822-822.20",
+    "source_collection": "ecfr",
+    "cfr_part": 822
+  },
+  {
+    "query_id": "int_43c5ef70",
+    "question": "If a cardiopulmonary bypass accessory equipment involves an electrical connection to the patient, what classification does it receive and what special controls apply?",
+    "ground_truth": "The device is classified as Class II. The special controls are: (i) the performance standard under part 898 of this chapter, and (ii) the guidance document entitled “Guidance on the Performance Standard for Electrode Lead Wires and Patient Cables.”",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.4200",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_f94c4378",
+    "question": "Under what circumstances will the FDA issue an order temporarily suspending approval of a PMA?",
+    "ground_truth": "The FDA shall issue an order temporarily suspending approval of the PMA if the PMA holder does not request a regulatory hearing, or if, after a hearing and consideration of the administrative record, the FDA determines that there is a reasonable probability that continued distribution of the device would cause serious, adverse health consequences or death.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-814-814.47",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "int_e18e9a91",
+    "question": "When performing a risk assessment, what categories of harm should manufacturers consider, and what specific elements of hazardous situations are they required to analyze?",
+    "ground_truth": "Manufacturers should consider both physical injury or damage and, for some devices, non‑physical injury such as psychological harm. They must analyze initiating hazards, failure modes, or circumstances; the sequences of events that could lead to a hazardous situation; the likelihood of such situations arising; the likelihood that the hazardous situations lead to harm; and the nature of the harm that could result.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-1500054-sec61",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_8c38bda8",
+    "question": "According to the guidance, which labeling changes require submission of a new 510(k)?",
+    "ground_truth": "Changes to the indications for use that have a major impact on intended use require submission of a new 510(k) under 21 CFR 807.81(a)(3).",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-1500054-sec23",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_37974063",
+    "question": "What classification is assigned to a steerable catheter control system under the FDA regulations?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.1290",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_6a29fe86",
+    "question": "What are the three categories of class III medical devices to which §814.1 applies, and what specific criteria define each category?",
+    "ground_truth": "§814.1 applies to any class III medical device, unless exempt under section 520(g), that meets one of the following: (1) it was not on the market before May 28, 1976, and is not substantially equivalent to a device on the market before that date, nor to a device first marketed on or after that date that has been classified into class I or class II; (2) it is required to have an approved premarket approval application (PMA) or a declared completed product development protocol under a regulation issued under section 515(b) of the act; or (3) it was regulated by FDA as a new drug or antibiotic drug before May 28, 1976, and therefore is governed by section 520(1) of the act.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-814-814.1",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "adv_720992d9",
+    "question": "How does the Class II (special controls) classification of a cardiopulmonary bypass level sensing monitor and/or control influence its premarket notification obligations, and what specific limitation governs this exemption?",
+    "ground_truth": "The device is classified as Class II (special controls) and is exempt from the premarket notification procedures in subpart E of part 807 of this chapter, provided it complies with the limitations set forth in § 870.9.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-870-870.4340",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "adv_9cfeeae9",
+    "question": "When a manufacturer or importer initiates a correction or removal to reduce a health risk but does not have a seven‑digit registration number, how must the report number be formatted, and what does FDA do with reports that lack a seven‑digit registration number?",
+    "ground_truth": "The report number must use seven zeros followed by the month, day, year, sequence number, and the report type designation (e.g., 0000000-6/1/97-001-C for a correction or 0000000-7/1/97-001-R for a removal). Reports received without a seven‑digit registration number will be assigned a seven‑digit central file number by the district office reviewing the reports.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-806-806.10",
+    "source_collection": "ecfr",
+    "cfr_part": 806
+  },
+  {
+    "query_id": "adv_c1d9e35f",
+    "question": "How does the requirement that human factors testing demonstrate a user’s ability to correctly interpret device output (requirement 4(ii)) relate to the labeling requirement to provide guidance on interpretation of results (requirement 5(v))?",
+    "ground_truth": "Human factors testing must show that the user can correctly interpret the device output and know when to seek medical care. To support this, the labeling must include guidance on interpretation of any results, ensuring the user has the necessary information to meet the human factors requirement.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-870-870.2790",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "adv_d0daf985",
+    "question": "According to §801.127, what happens to the exemption for a device originally covered by §§801.119, 801.122, or 801.125 if it is relabeled to comply with section 502(f)(1) before being used for its exempt purpose, and how does a subsequent conversion of that device to a form limited to prescription dispensing affect its exemption status?",
+    "ground_truth": "The exemption ends when the device is relabeled to comply with section 502(f)(1) of the act, even if it has not yet been used for the exempt purpose, because §801.127(b) states the exemptions continue \"until the devices are used for the purposes for which they are exempted, or until they are relabeled to comply with section 502(f)(1) of the act.\" If the device is later converted or manufactured into a form limited to prescription dispensing, no exemption thereafter applies to the article unless the device is labeled as required by §801.109.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-801-801.127",
+    "source_collection": "ecfr",
+    "cfr_part": 801
+  },
+  {
+    "query_id": "bas_cbee2b4f",
+    "question": "Does submission of a premarket notification denote official approval of the device?",
+    "ground_truth": "No. Submission of a premarket notification does not in any way denote official approval of the device.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-807-807.97",
+    "source_collection": "ecfr",
+    "cfr_part": 807
+  },
+  {
+    "query_id": "bas_55b6f383",
+    "question": "What is the FDA classification for a cardiopulmonary bypass heart-lung machine console?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.4220",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_b99ead3f",
+    "question": "According to the special controls for apical closure devices, what specific information must be included on the device labeling?",
+    "ground_truth": "Labeling must include: (i) detailed information explaining how the device operates; (ii) sheath size that the device can accommodate; (iii) identification of the minimum myocardial wall thickness to ensure optimal device function; and (iv) a shelf life.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.4510",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "int_beb54578",
+    "question": "When does a cardiac monitor (including cardiotachometer and rate alarm) sound an alarm according to its identification description?",
+    "ground_truth": "It may sound an alarm when the heart rate falls outside preset upper and lower limits.",
+    "difficulty": "intermediate",
+    "source_chunk_id": "ecfr-21-870-870.2300",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "adv_c2301011",
+    "question": "How does the requirement for submitting a PMA or a premarket notification for non‑humanitarian use devices relate to the two‑step process for obtaining marketing approval of a HUD described in this section?",
+    "ground_truth": "For a device seeking approval for a non‑HUD use, the applicant must submit a Premarket Approval (PMA) as required under § 814.20, or a premarket notification (510(k)) as required under part 807. In contrast, obtaining marketing approval for a HUD involves two distinct steps: (1) obtaining HUD designation from the FDA’s Office of Orphan Products Development, and (2) submitting a Humanitarian Device Exemption (HDE) to the appropriate FDA center (OPEQ, CDRH, CBER, or CDER). Thus, non‑HUD uses follow the standard PMA or 510(k) pathways, whereas HUD approval follows the special HUD designation and HDE submission process.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-814-814.100",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "adv_b692c45b",
+    "question": "If FDA denies approval of a PMA because a nonclinical laboratory study was not conducted in compliance with the good laboratory practice regulations in part 58, what specific information must the denial order contain, and how must FDA publicly announce the denial?",
+    "ground_truth": "The denial order must be issued in accordance with § 814.17 and must inform the applicant of the deficiencies in the PMA, including each applicable ground for denial under section 515(d)(2) of the act and the regulations under this part, and, where practical, identify measures required to place the PMA in approvable form. The order must also include a notice of an opportunity to request review under section 515(d)(4) of the act. Additionally, FDA must give public notice of the order by posting it on the FDA’s home page on the Internet, stating that a detailed summary of information respecting the safety and effectiveness of the device, including any adverse effects, is available online.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-814-814.45",
+    "source_collection": "ecfr",
+    "cfr_part": 814
+  },
+  {
+    "query_id": "bas_3443521a",
+    "question": "Who grants exemptions from sections 510, 519, and 520(f) under §860.15?",
+    "ground_truth": "The Commissioner.",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-860-860.15",
+    "source_collection": "ecfr",
+    "cfr_part": 860
+  },
+  {
+    "query_id": "bas_01d86bd9",
+    "question": "What classification is assigned to an automated external defibrillator (AED) system?",
+    "ground_truth": "Class III (premarket approval)",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.5310",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_d800f972",
+    "question": "What classification is assigned to a vena cava clip?",
+    "ground_truth": "Class II (performance standards).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.3260",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_e71d559e",
+    "question": "What is the FDA classification for the software-based optical camera measurement device?",
+    "ground_truth": "Class II (special controls).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.2785",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "bas_e19cd327",
+    "question": "According to the guidance, does it recommend using a specific software life cycle model?",
+    "ground_truth": "No, the guidance does not recommend the use of any specific software life cycle model.",
+    "difficulty": "basic",
+    "source_chunk_id": "fda-General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff_0-sec37",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "int_ec8e6ffc",
+    "question": "If a manufacturer reduces the diameter of a urinary drainage (Foley) catheter to a size that falls within the range of diameters previously cleared, is a new 510(k) submission required?",
+    "ground_truth": "No. Because the new diameter is within the range of previously cleared diameters and the original cleared 510(k) already demonstrated the smallest and largest diameters as worst‑case scenarios, the change does not require a new 510(k).",
+    "difficulty": "intermediate",
+    "source_chunk_id": "fda-1500054-sec78",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "bas_0ad4f98e",
+    "question": "What is the FDA classification for a cardiopulmonary bypass defoamer?",
+    "ground_truth": "Class II (special controls).",
+    "difficulty": "basic",
+    "source_chunk_id": "ecfr-21-870-870.4230",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  },
+  {
+    "query_id": "adv_da661ae0",
+    "question": "How does the guidance's statement that it does not create rights or bind the FDA enable a manufacturer to use an alternative approach, and what procedure does the text prescribe for discussing that alternative with the Agency?",
+    "ground_truth": "Because the guidance does not create or confer any rights for or on any person and does not bind the FDA or the public, a manufacturer may use an alternative approach if that approach satisfies the requirements of the applicable statutes and regulations. To discuss the alternative approach, the manufacturer should contact the FDA staff responsible for implementing the guidance; if the appropriate staff cannot be identified, the manufacturer should call the appropriate number listed on the title page of the guidance.",
+    "difficulty": "advanced",
+    "source_chunk_id": "fda-Medical-Device-Reporting-for-Manufacturers---Guidance-sec6",
+    "source_collection": "fda_guidance",
+    "cfr_part": null
+  },
+  {
+    "query_id": "adv_531474df",
+    "question": "How does the special control requiring electromagnetic compatibility (EMC) validation within a hospital environment relate to the labeling requirement that the device be intended for use in a hospital environment under clinician supervision?",
+    "ground_truth": "The special control (1) mandates that appropriate analysis/testing must validate electromagnetic compatibility (EMC) within a hospital environment. Correspondingly, the labeling requirement (5)(i) must clearly state that these devices are intended for use in a hospital environment and under the supervision of a clinician trained in their use. Thus, the EMC testing ensures the device safely operates in the hospital setting, and the labeling communicates that intended environment and supervisory condition to the user.",
+    "difficulty": "advanced",
+    "source_chunk_id": "ecfr-21-870-870.3600",
+    "source_collection": "ecfr",
+    "cfr_part": 870
+  }
+]

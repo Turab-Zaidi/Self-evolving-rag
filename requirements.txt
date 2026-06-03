@@ -1,0 +1,34 @@
+# Core
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+
+# Vector Database
+chromadb>=0.5.0
+
+# Sparse Retrieval
+rank-bm25>=0.2.2
+
+# LLM (NVIDIA NIM — OpenAI-compatible)
+openai>=1.30.0
+
+# Document Parsing
+lxml>=5.2.0
+pymupdf>=1.24.0
+
+# Reranking (local cross-encoder)
+sentence-transformers>=3.0.0
+
+# Evaluation
+ragas>=0.1.0
+
+# Self-Evolution
+dspy-ai>=2.4.0
+optuna>=3.6.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+pydantic>=2.7.0
+numpy>=1.26.0
